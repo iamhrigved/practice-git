@@ -1,1 +1,2 @@
 This is the FIRST file of new-branch.
+this is the second line of this file.

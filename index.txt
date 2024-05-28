@@ -1,3 +1,8 @@
 This is inddex file 1!
 making conflict
 resolved conflict!
+ramesh
+is 
+the 
+best 
+student

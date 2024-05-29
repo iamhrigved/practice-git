@@ -4,3 +4,17 @@ resolved conflict!
 
 # trying git rebase (index.txt)
 this line is added on main branch
+
+
+
+
+
+
+# trying to learn git rebase (index.txt)
+notice that the above lines are empty.
+this is done to minimize conflicts.
+
+# doing this for the second time to do a new commit.
+# trying to learn git rebase (index.txt)
+notice that the above lines are empty.
+this is done to minimize conflicts.

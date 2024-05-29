@@ -3,3 +3,10 @@ second line for this file
 third line for this file
 fourth line of this file
 trying to learn git-rebase
+
+
+
+
+# trying to learn git rebase (index2.txt)
+notice that the above lines are empty.
+this is done to minimize conflicts.

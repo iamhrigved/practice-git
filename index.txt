@@ -1,9 +1,13 @@
 This is inddex file 1!
 making conflict
 resolved conflict!
-ramesh
-can
-best 
 
-student
-prababily
+
+
+
+
+
+
+# trying to learn git rebase (index.txt)
+notice that the above lines are empty.
+this is done to minimize conflicts.

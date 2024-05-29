@@ -10,3 +10,8 @@ trying to learn git-rebase
 # trying to learn git rebase (index2.txt)
 notice that the above lines are empty.
 this is done to minimize conflicts.
+
+# doing this for the second time to do a new commit.
+# trying to learn git rebase (index2.txt)
+notice that the above lines are empty.
+this is done to minimize conflicts.

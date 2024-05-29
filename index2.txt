@@ -1,3 +1,5 @@
 This is index file 2!
 second line for this file
 third line for this file
+fourth line of this file
+trying to learn git-rebase

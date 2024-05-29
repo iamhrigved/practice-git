@@ -2,7 +2,8 @@ This is inddex file 1!
 making conflict
 resolved conflict!
 ramesh
-is 
-the 
+can
 best 
+
 student
+prababily

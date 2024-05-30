@@ -2,8 +2,6 @@ This is inddex file 1!
 making conflict
 resolved conflict!
 
-# trying git rebase (index.txt)
-this line is added on main branch
 
 
 
